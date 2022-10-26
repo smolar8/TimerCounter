@@ -27,7 +27,7 @@ body {
 .image-section {
   position: relative;
   height: 400px;
-  background-image: url("default.jpg");
+  background-image: url("Mikołaj.jpg");
   background-size: cover;
   background-position: center;
 }
